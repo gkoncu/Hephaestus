@@ -1,0 +1,6 @@
+@Hephaestus.DataApi_HostAddress = http://localhost:5241
+
+GET {{Hephaestus.DataApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
